@@ -1,6 +1,8 @@
 ## MVC Delphi System
 
-Este projeto é um sistema MVC (Model-View-Controller) desenvolvido em Delphi com FireMonkey, com o objetivo de facilitar a manutenção do CRUD através da padronização de menus e botões especializados em suas classes, seguindo o princípio da responsabilidade única. Oferece suporte a três opções de conexões: FireDAC, Zeos e dbExpress, permitindo que qualquer uma delas seja utilizada conforme as diretrizes de compilação condicional.
+O projeto é um sistema MVC (Model-View-Controller) em Delphi com FireMonkey, desenvolvido sob a orientação da Certificação em Arquitetura MVC do professor Thulio Bittencourt.
+
+O objetivo deste projeto é facilitar a manutenção do CRUD através da padronização de menus e botões especializados em suas classes, seguindo o princípio da responsabilidade única. Oferece suporte a três opções de conexões a banco de dados: FireDAC, Zeos e dbExpress, permitindo que qualquer uma delas seja utilizada conforme as diretrizes de compilação condicional.
 
 ### Features
 
